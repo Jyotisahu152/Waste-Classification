@@ -38,7 +38,7 @@ Evaluated using accuracy, loss curves, and confusion matrix
 
 Model Saving
 
-The trained model is exported as waste_classifier_model.h5
+The trained model is exported as waste_classifier.h5
 
 Results
 
