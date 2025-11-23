@@ -42,7 +42,7 @@ The trained model is exported as waste_classifier_model.h5
 
 Results
 
-The model demonstrates strong performance with high accuracy and consistent validation results, indicating good generalization across waste categories.
+The model demonstrates strong performance with accuracy and consistent validation results, indicating good generalization across waste categories.
 
 Conclusion
 
